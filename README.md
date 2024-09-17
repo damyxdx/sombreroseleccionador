@@ -28,22 +28,22 @@ Instalación
 Clona este repositorio en tu máquina local:
 
 bash
-Copiar código
+
 git clone https://github.com/tu-usuario/sombrero-seleccionador.git
 Navega al directorio del proyecto:
 
 bash
-Copiar código
+
 cd sombrero-seleccionador
 Asegúrate de tener Python instalado en tu sistema. Puedes verificarlo ejecutando:
 
 bash
-Copiar código
+
 python --version
 Ejecuta el script principal para iniciar la aplicación:
 
 bash
-Copiar código
+
 python sombrero_seleccionador.py
 Uso
 Abre el programa y serás recibido por una interfaz gráfica que solicita tu nombre.
